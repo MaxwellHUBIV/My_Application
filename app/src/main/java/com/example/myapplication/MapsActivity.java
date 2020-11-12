@@ -45,8 +45,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 System.out.println(point.latitude + "---" + point.longitude);
             }
         });
-
-
+//123123123
+//123123123
     }
 
     public void ChangeType(View view){
